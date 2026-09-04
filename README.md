@@ -3,7 +3,7 @@
 **Project developed for the NASA Space Apps Challenge 2023**  
 **Challenge:** "Eclipses: Perspective is Everything"  
 **Team:** Space Griffons  
-**Official Links:** [Space Apps Project Page](https://spaceappschallenge.org) | [Video Demonstration](https://google.com)
+**Official Links:** https://www.spaceappschallenge.org/2023/find-a-team/space-griffons/?tab=project
 
 ---
 
