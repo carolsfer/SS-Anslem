@@ -9,7 +9,7 @@
 
 ## About the Project
 
-**SS-Anslem** is an educational and ludic game designed for young learners. It aims to explain the mechanisms, mechanics (including eclipse seasons), and the profound scientific importance of eclipses in a fun, engaging way.
+**SS-Anselm** is an educational and ludic game designed for young learners. It aims to explain the mechanisms, mechanics (including eclipse seasons), and the profound scientific importance of eclipses in a fun, engaging way.
 
 The game's narrative is inspired by a historic, real-life 1919 expedition hosted by Sir Arthur Stanley Eddington and Sir Frank Watson Dyson. At the time, they set sail to the inland town of Sobral in northeastern Brazil and Príncipe Island off the western coast of Africa to document a total solar eclipse. By doing so, they successfully proved light deflection near the Sun, providing the first groundbreaking empirical support for **Albert Einstein's General Theory of Relativity**.
 
@@ -25,7 +25,7 @@ Eclipses are awe-inspiring celestial events that drastically change the appearan
 
 The project implements a **2D Endless-Runner** game designed to be lightweight, highly accessible, and family-friendly:
 
-* **Mechanics:** Players control the trajectory of the expedition ship (the S.S. Anslem), making strategic stops along the way to investigate with the telescope and monitor how close they are to the celestial event.
+* **Mechanics:** Players control the trajectory of the expedition ship (the S.S. Anselm), making strategic stops along the way to investigate with the telescope and monitor how close they are to the celestial event.
 * **Progression:** The game kicks off with a brief historical overview of the expedition as the player boards the vessel. As they near their objective, they face various navigation checkpoints, ultimately ending the journey upon reaching the city of Sobral right in time for the eclipse.
 * **Art & Compatibility:** Built with charming 2D pixel art and sprites tailored to be visually appealing for all age groups. It features good compatibility for game controllers and runs smoothly on almost any modern device.
 
@@ -47,7 +47,7 @@ The project implements a **2D Endless-Runner** game designed to be lightweight, 
 Our scientific and historical foundation relies heavily on open data provided by **NASA** websites and space/climate partners concerning:
 * General eclipse information and orbital mechanics.
 * Lunar phases and eclipse season cycles.
-* Historic logs of the 1919 Eddington Experiment and the S.S. Anslem expedition ship.
+* Historic logs of the 1919 Eddington Experiment and the S.S. Anselm expedition ship.
 
 ---
 
