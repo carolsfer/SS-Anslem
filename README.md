@@ -1,4 +1,4 @@
-# SS-Anslem
+# SS-Anselm
 
 **Project developed for the NASA Space Apps Challenge 2023**  
 **Challenge:** "Eclipses: Perspective is Everything"  
